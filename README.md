@@ -8,15 +8,21 @@ No middlemen or other institution are needed for processing transactions.
 
 SPECIFICATION
 
-Name: HomeBlockCoin
-Symbol: HBC
-Total Supply: 28.000.000
-ICO: 5.000.0000
-Algorithm: X11
-Type: PoW/PoS
-Block size: 2MB
-Tx Fee: 0.00001
+Name: HomeBlockCoin<br>
+Symbol: HBC<br>
+Total Supply: 28.000.000<br>
+ICO: 5.000.0000<br>
+Algorithm: X11<br>
+Type: PoW/PoS<br>
+Block size: 2MB<br>
+Tx Fee: 0.00001<br><br>
 
+HBC official nodes:<br>
+82.221.141.12<br>
+91.92.128.161<br>
+91.92.136.176<br>
+
+<br>
 MINING
 
 Pow block reward: 10 HBC
